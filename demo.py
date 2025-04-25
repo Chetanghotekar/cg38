@@ -1,8 +1,6 @@
 https://github.com/akashkolhe0512/cg38/blob/main/demo.py
 
-Here’s a complete Set 2 with answers for your exam or interview prep:
 
----
 
 **1. Create and configure a Scrum project in Jira:**
 
@@ -81,6 +79,4 @@ git merge feature-branch
 git push origin main
 ```
 
----
 
-Let me know if you'd like a cheat sheet version or visuals for any part!
